@@ -40,7 +40,7 @@ Weathered Vibes is an application that lets a user look up a city and get the cu
 [![Watch the demo](assets/images/demo.png)](assets/images/demo.mov)
 
 ## Repository
-- Repository can be found [here](https://github.com/SepidehAyani/WeatheredVibes)
+- Repository can be found [here](https://github.com/hmailahn/WeatheredVibes)
 
 ## Deployed-Project
  - Deployed Project can be found [here](https://sepidehayani.github.io/WeatheredVibes/)

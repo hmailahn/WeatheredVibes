@@ -1,5 +1,7 @@
 # WeatheredVibes
 
+![GitHub last commit](https://img.shields.io/github/last-commit/hmailahn/WeatheredVibes)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hmailahn/WeatheredVibes)  ![GitHub watchers](https://img.shields.io/github/watchers/hmailahn/WeatheredVibes?label=Watch&style=social)  ![GitHub top language](https://img.shields.io/github/languages/top/hmailahn/WeatheredVibes)
+
 ## Table of Contents:
   1. [Description](#Description)
   2. [Usage](#Usage)
